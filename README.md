@@ -1,1 +1,6 @@
 # Modelado-robot-manipulador
+Este video es el proyecto práctico de la asignatura de Manipuladores, donde hablo y muestro un robot manipulador modelado con ficheros URDF y ROS. Haciendo uso de Rviz y Gazebo se puede visualizar y simular. Para el control del robot se ejecuta un movimiento "pick&place" realizado en un programa de Python con ayuda del asistente de MoveIt de ROS.
+
+Para realizar esta práctica no se ha escogido un robot ya existente, sino que se ha decidido crearlo desde cero y dotarle de la forma que es más conveniente para la realización de la tarea propuesta, en un principio se planteó hacer un brazo robótico como el modelo propuesto durante la realización de las sesiones de prácticas, pero durante la realización de estas surgió una idea y se planteó de hacer un brazo robótico manipulador que está incluido en una cinta para poder tener más rango de movimiento, como los robots que hay en varias farmacias para poder coger los fármacos y dárselos a los farmacéuticos o como los que hay en diferentes fábricas, ahorrándoles tiempo y haciendo dicha tarea de manera eficiente y rápida. 
+
+https://www.linkedin.com/posts/gonzalo-ferrando-alonso-54b77817a_robots-python-ros-activity-6820413188987727872-1Nsx?utm_source=share&utm_medium=member_desktop
